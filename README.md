@@ -1,2 +1,3 @@
 # hackItOut 
-abc
+
+1> use "npm install" before using
